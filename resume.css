@@ -223,10 +223,10 @@ body {
   .resume .resume_right .resume_hobby ul li {
     width: 80px;
     height: 80px;
-    border: 2px solid rgba(79, 146, 79, 0.993);
+    border: 2px solid red;
     border-radius: 50%;
     position: relative;
-    color: rgba(79, 146, 79, 0.993);
+    color: red;
   }
   
   .resume .resume_right .resume_hobby ul li i {
@@ -240,8 +240,7 @@ body {
     right: -52px;
     width: 50px;
     height: 2px;
-    background: rgba(79, 146, 79, 0.993);
-  }
+    background: rgb(185, 63, 63)  }
   
   .resume .resume_right .resume_hobby ul li:last-child:before {
     display: none;
