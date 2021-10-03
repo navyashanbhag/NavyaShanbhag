@@ -10,8 +10,8 @@
 
 body {
   background: rgb(148, 88, 88);
-  font-size: 14px;
-  line-height: 22px;
+  font-size: 15px;
+  line-height: 23px;
 }
 
 .bold {
@@ -21,8 +21,8 @@ body {
 }
 
 .semi-bold {
-  font-weight: 500;
-  font-size: 16px;
+  font-weight: 600;
+  font-size: 17px;
 }
 
 .resume {
@@ -46,8 +46,8 @@ body {
 }
 
 .resume .resume_left .resume_profile img {
-  width: 120%;
-  height: 120%;
+  width: 130%;
+  height: 130%;
 }
 
 .resume .resume_left .resume_content {
