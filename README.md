@@ -1,4 +1,5 @@
 ### Hi there 👋
 
- 🔭 I’m currently working on .HTML,CSS,Python and datascience projects..
+ 🔭 Data Analyst Enthusiast
+
  🌱 I’m currently learning Machine Learning...
