@@ -1,5 +1,4 @@
 ### Hi there 👋
 
- 🔭 Data Analyst Enthusiast
+ 🔭 Data Analyst
 
- 🌱 I’m currently learning Machine Learning...
